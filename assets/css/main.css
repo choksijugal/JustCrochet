@@ -453,6 +453,7 @@ a.read-more-btn {
 
 a.read-more-btn:hover {
   color: #FF084E;
+  
 }
 
 a.boxed-btn, a.bordered-btn, a.cart-btn {
@@ -573,7 +574,7 @@ nav.main-menu ul li {
 
 nav.main-menu ul li a {
   color: #fff;
-  font-weight: 700;
+  font-weight: 400;
   display: block;
   padding: 15px;
 }
@@ -1214,6 +1215,7 @@ div.owl-controls div.owl-nav div:hover {
 
 .pagination-wrap ul li:hover a {
   background-color: #FF084E;
+  color: #fff;
 }
 
 .icons a i {
@@ -1716,6 +1718,7 @@ p.excerpt {
 
 .pagination-wrap ul li a.active {
   background-color: #FF084E;
+  color: #fff;
 }
 
 .single-artcile-bg {

@@ -282,9 +282,9 @@ img {
     font-size: 24px;
     height: 40px;
     line-height: 40px;
-    right: 60px;
+    left: 0px;
     text-align: center;
-    width: 40px;
+    width: 0px;
 }
 
 .section_padding_100 {

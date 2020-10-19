@@ -503,6 +503,10 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/crops-bg.jpg);
 }
 
+.shop-bg {
+  background-image: url(../img/bralettes-bg.jpg);
+}
+
 .breadcrumb-text p {
   color: #FF084E;
   font-weight: 700;
@@ -1494,15 +1498,15 @@ input[type="submit"] {
 }
 
 .homepage-bg-1 {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(../img/home-bg/bg1.jpg);
 }
 
 .homepage-bg-2 {
-  background-image: url(../img/hero-bg-2.jpg);
+  background-image: url(../img/home-bg/bg2.jpg);
 }
 
 .homepage-bg-3 {
-  background-image: url(../img/hero-bg-3.jpg);
+  background-image: url(../img/home-bg/bg3.jpg);
 }
 
 .homepage-slider {

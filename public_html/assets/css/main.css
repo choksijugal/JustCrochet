@@ -496,16 +496,29 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-bg {
-  background-image: url(../img/bralettes-bg.jpg);
+  background-image: url(../img/breadcrumb/bralettes-bg.jpg);
 }
 
 .crops-bg {
-  background-image: url(../img/crops-bg.jpg);
+  background-image: url(../img/breadcrumb/crops-bg.jpg);
 }
 
 .shop-bg {
-  background-image: url(../img/shop-bg.jpg);
+  background-image: url(../img/breadcrumb/shop-bg.jpg);
 }
+
+.crops-bg {
+  background-image: url(../img/breadcrumb/crops-br-bg.jpg);
+}
+
+.masks-bg {
+  background-image: url(../img/breadcrumb/masks-br-bg.jpg);
+}
+
+.bralettes-bg {
+  background-image: url(../img/breadcrumb/bralettes-br-bg.jpg);
+}
+
 
 .breadcrumb-text p {
   color: #FF084E;

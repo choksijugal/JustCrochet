@@ -496,7 +496,11 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-bg {
-  background-image: url(../img/breadcrumb-bg.jpg);
+  background-image: url(../img/bralettes-bg.jpg);
+}
+
+.crops-bg {
+  background-image: url(../img/crops-bg.jpg);
 }
 
 .breadcrumb-text p {

@@ -55,6 +55,7 @@ h6, .h6 {
   font-weight: 700;
   margin: 0 0 1.25rem 0;
   color: #051922;
+  font-display: swap;
 }
 
 h1:last-child, .h1:last-child,
@@ -435,6 +436,7 @@ a.boxed-btn {
   background-color: #FF084E;
   color: #fff;
   padding: 10px 20px;
+  font-display: swap;
 }
 
 a.bordered-btn {
@@ -443,6 +445,7 @@ a.bordered-btn {
   color: #fff;
   border: 2px solid #FF084E;
   padding: 7px 20px;
+  font-display: swap;
 }
 
 a.read-more-btn {
@@ -2488,6 +2491,7 @@ p.product-price {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 15px;
+  font-display: swap;
 }
 
 p.product-price span {
@@ -2503,6 +2507,7 @@ a.cart-btn {
   background-color: #FF084E;
   color: #fff;
   padding: 10px 20px;
+  font-display: swap;
 }
 
 a.cart-btn i {

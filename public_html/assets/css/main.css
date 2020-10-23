@@ -499,24 +499,32 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/breadcrumb/bralettes-bg.jpg);
 }
 
-.crops-bg {
+.crops-bg { 
   background-image: url(../img/breadcrumb/crops-bg.jpg);
+}
+
+.masks-bg { 
+  background-image: url(../img/breadcrumb/masks-bg.jpg);
 }
 
 .shop-bg {
   background-image: url(../img/breadcrumb/shop-bg.jpg);
 }
 
-.crops-bg {
+.crops-br-bg {
   background-image: url(../img/breadcrumb/crops-br-bg.jpg);
 }
 
-.masks-bg {
+.masks-br-bg {
   background-image: url(../img/breadcrumb/masks-br-bg.jpg);
 }
 
-.bralettes-bg {
+.bralettes-br-bg {
   background-image: url(../img/breadcrumb/bralettes-br-bg.jpg);
+}
+
+.dresses-br-bg {
+  background-image: url(../img/breadcrumb/dresses-br-bg.jpg);
 }
 
 

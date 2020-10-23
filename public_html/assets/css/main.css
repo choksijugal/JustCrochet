@@ -511,6 +511,11 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/breadcrumb/shop-bg.jpg);
 }
 
+.about-bg { 
+  background-image: url(../img/breadcrumb/about-bg.jpg);
+}
+
+
 .crops-br-bg {
   background-image: url(../img/breadcrumb/crops-br-bg.jpg);
 }

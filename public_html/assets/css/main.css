@@ -510,12 +510,28 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/breadcrumb/masks-bg.jpg);
 }
 
+.bralettes-alt-bg {
+  background-image: url(../img/breadcrumb/bralettes-alt-bg.jpg);
+}
+
+.crops-alt-bg { 
+  background-image: url(../img/breadcrumb/crops-alt-bg.jpg);
+}
+
+.masks-alt-bg { 
+  background-image: url(../img/breadcrumb/masks-alt-bg.jpg);
+}
+
 .shop-bg {
   background-image: url(../img/breadcrumb/shop-bg.jpg);
 }
 
 .caring-bg {
   background-image: url(../img/breadcrumb/caring-bg.jpg);
+}
+
+.why-bg {
+  background-image: url(../img/breadcrumb/why-bg.jpg);
 }
 
 .about-bg { 
@@ -2437,7 +2453,7 @@ ul.social-link-team li a {
 
 ----------------------------------------------------------------------------- */
 .product-filters {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 .product-filters ul {

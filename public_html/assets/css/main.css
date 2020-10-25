@@ -2508,6 +2508,7 @@ p.product-price {
   font-weight: 700;
   margin-bottom: 15px;
   font-display: swap;
+  line-height: 40px;
 }
 
 p.product-price span {

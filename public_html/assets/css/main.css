@@ -506,6 +506,10 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   background-image: url(../img/breadcrumb/crops-bg.jpg);
 }
 
+.dresses-bg { 
+  background-image: url(../img/breadcrumb/dresses-bg.jpg);
+}
+
 .masks-bg { 
   background-image: url(../img/breadcrumb/masks-bg.jpg);
 }
